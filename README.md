@@ -1,4 +1,4 @@
-# Telco-Customer-Churn
+# Customer-Churn
 Welcome to the Telco Customer Churn Analysis project! In this project, we explore and analyze the Telco Customer Churn dataset to gain insights into factors influencing customer churn. The dataset provides information about various features of telecom customers, such as their contract details, usage patterns, and whether they churned or not.
 
 ## Source Link
