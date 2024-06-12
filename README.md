@@ -57,6 +57,6 @@ Python 3.x
 Libraries: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Jupyter.
 
 
-Feel free to explore and contribute to this project! If you have any questions or suggestions, please contact me at shravanirajanelli@gmail.com.
+Feel free to explore and contribute to this project! If you have any questions or suggestions, please contact me at viswasai.goudampally@gmail.com.
 
 Happy analyzing and reducing churn! 📞📊
